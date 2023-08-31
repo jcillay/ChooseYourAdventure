@@ -1,0 +1,7 @@
+{
+    "gpt_api_key": "",
+    "gpt_generation_role": "system",
+    "gpt_content": "You are a trip itinerary planner.",
+    "gpt_answer_role": "user",
+    "gpt_model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,522 @@
+{
+   "search_metadata": {
+      "id": "64b9d52e8b7ed2a67f0c5070",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/a24b6f80a3e7c9dd/64b9d52e8b7ed2a67f0c5070.json",
+      "created_at": "2023-07-21 00:45:34 UTC",
+      "processed_at": "2023-07-21 00:45:34 UTC",
+      "google_events_url": "https://www.google.com/search?q=Events+in+Austin&ibp=htl;events&hl=en&gl=us",
+      "raw_html_file": "https://serpapi.com/searches/a24b6f80a3e7c9dd/64b9d52e8b7ed2a67f0c5070.html",
+      "total_time_taken": 0.76
+   },
+   "search_parameters": {
+      "q": "Events in Austin",
+      "engine": "google_events",
+      "hl": "en",
+      "gl": "us"
+   },
+   "search_information": {
+      "events_results_state": "Results for exact spelling"
+   },
+   "events_results": [
+      {
+         "title": "Special Event: Jason Nash",
+         "date": {
+            "start_date": "Jul 22",
+            "when": "Sat, Jul 22, 3:30 \u2013 6:30 PM CDT"
+         },
+         "address": [
+            "Capitol City Comedy Club, Bldg B, 11506 Century Oaks Terrace Unit 100",
+            "Austin, TX"
+         ],
+         "link": "https://www.capcitycomedy.com/shows/219540",
+         "event_location_map": {
+            "image": "https://www.google.com/maps/vt/data=OA43FWNsWmnG7ZaRgLBv9nkLRe45_nTIMaRdQHNvZH97j8ktH_WSZ_foDk5BeQCTxSqGC_o46znu1UZu98O1GShq3PrUKT06jQt1lpsXGhWnTBJ9eos",
+            "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x8644cbc94682a037:0xdb2a6ffe6a3d26d5?sa=X&ved=2ahUKEwilk6ipyZ6AAxUtC0QIHa2UCu0Q9eIBegQIARAA",
+            "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x8644cbc94682a037%3A0xdb2a6ffe6a3d26d5&engine=google_maps&google_domain=google.com&hl=en&q=Events+in+Austin&type=place"
+         },
+         "description": "Jason Nash is an American comedian and internet personality. Known for his comedy style YouTube videos, he also appeared on Last Comic Standing. Nash has written, directed, and starred in a pair...",
+         "ticket_info": [
+            {
+               "source": "Ticketsmarter.com",
+               "link": "https://www.ticketsmarter.com/e/jason-nash-tickets-austin-7-22-2023-cap-city-comedy-club/5734955",
+               "link_type": "tickets"
+            },
+            {
+               "source": "Allevents.in",
+               "link": "https://allevents.in/austin/jason-nash/230007888338712",
+               "link_type": "tickets"
+            },
+            {
+               "source": "Cap City Comedy Club",
+               "link": "https://www.capcitycomedy.com/shows/219540",
+               "link_type": "more info"
+            },
+            {
+               "source": "Do512",
+               "link": "https://do512.com/events/2023/7/22/special-event-jason-nash-tickets",
+               "link_type": "more info"
+            },
+            {
+               "source": "StubFindr",
+               "link": "https://stubfindr.com/event/jason-nash-5734955/",
+               "link_type": "more info"
+            }
+         ],
+         "venue": {
+            "name": "Capitol City Comedy Club",
+            "reviews": 1648,
+            "link": "https://www.google.com/search?q=Capitol+City+Comedy+Club&ludocid=15792558181822834389&ibp=gwp%3B0,7"
+         },
+         "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIoD9mOwKXln1Pq7CLQgYnN1_NNG0VyF_7DI3-Qe_eUGmFjJn1I6qN_vE&s",
+         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOTVrQe8hl-BzZTKEuSevvRyRPYOwOj5xpYnznz0WO6Cy3iNu-Rd--hq4F5w&s=10"
+      },
+      {
+         "title": "Austin City Limits Music Festival - Weekend One",
+         "date": {
+            "start_date": "Oct 8",
+            "when": "Sun, Oct 8, 12 \u2013 3 PM CDT"
+         },
+         "address": [
+            "Zilker Metropolitan Park",
+            "Austin, TX"
+         ],
+         "link": "https://www.bandsintown.com/e/1028521615-yeah-yeah-yeahs-at-zilker-metropolitan-park",
+         "event_location_map": {
+            "image": "https://www.google.com/maps/vt/data=9iPGKvsckRjhd9-x5Ic3v29aMmCez_JLSyxn6XUKO-3rliJpOc3bMrxBqMYcXjtfeI6zX_IemIcq39yuUg7s54HralrAO8nwWYpVhXAiYgOeH2qG218",
+            "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x8644b586e0f968db:0x9b503f3c7a9772ba?sa=X&ved=2ahUKEwilk6ipyZ6AAxUtC0QIHa2UCu0Q9eIBegQICRAA",
+            "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x8644b586e0f968db%3A0x9b503f3c7a9772ba&engine=google_maps&google_domain=google.com&hl=en&q=Events+in+Austin&type=place"
+         },
+         "description": "Yeah Yeah Yeahs is an alternative rock band formed in New York City in the late summer of 2000. The trio consists of singer/frontwoman Karen O, drummer Brian Chase and guitarist Nick Zinner. Their...",
+         "ticket_info": [
+            {
+               "source": "Bandsintown.com",
+               "link": "https://www.bandsintown.com/t/104414870?came_from=209",
+               "link_type": "tickets"
+            },
+            {
+               "source": "Stubhub.ie",
+               "link": "https://www.stubhub.ie/austin-city-limits-festival-acl-sunday-pass-tickets-austin-10-8-2023/event/105967024/",
+               "link_type": "tickets"
+            },
+            {
+               "source": "Vividseats.com",
+               "link": "https://www.vividseats.com/austin-city-limits-festival-tickets-austin-zilker-park-10-8-2023--concerts-music-festivals/production/4158137?utm_medium=organic&utm_source=google_eventsearch",
+               "link_type": "tickets"
+            },
+            {
+               "source": "Gametime.co",
+               "link": "https://gametime.co/concert/austin-city-limits-festival-sunday-mumford-sons-odesza-hozier-tickets/10-8-2023-austin-tx-zilker-park/events/634ed491f1dd490001892f31?utm_medium=organic&utm_source=microformat",
+               "link_type": "tickets"
+            },
+            {
+               "source": "KXAN",
+               "link": "http://kxan.com/calendar/#!/details/Austin-City-Limits-Music-Festival-Weekend-One/11220650/2023-10-08T00",
+               "link_type": "more info"
+            }
+         ],
+         "venue": {
+            "name": "Zilker Metropolitan Park",
+            "reviews": 3457,
+            "link": "https://www.google.com/search?q=Zilker+Metropolitan+Park&ludocid=11191514603003015866&ibp=gwp%3B0,7"
+         },
+         "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo6ZRFTerUaMS_bNOvSQJK7wSqLKE6qgLtuh54pWJpPX7AnBtIMcJJzQU&s",
+         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUMr3mzHoRXuKCcYUN-P4f7DjP-KZJoiSB-ci_Ij5NN3Bvd2ZoDuRAlDC6gA&s=10"
+      },
+      {
+         "title": "Sips & Sounds 2023",
+         "date": {
+            "start_date": "Jul 29",
+            "when": "Sat, Jul 29, 2 PM CDT"
+         },
+         "address": [
+            "Moody Amphitheater, 1401 Trinity St",
+            "Austin, TX"
+         ],
+         "link": "https://www.austintexas.org/event/sips-%26-sounds-summer-festival-by-coke-studio/374308/",
+         "event_location_map": {
+            "image": "https://www.google.com/maps/vt/data=x5CZK4Uv9IAdNWCEh7873l3w6lUadYSNaS10VqiJXW2ELJmuYG1rACxHACxMK3iQ3Gd3gibhGO4cVkSv8O6f5mgzuhnz3_UZDt5_28_ArGPU6EDg3O4",
+            "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x8644b538bc720c67:0x582b04b3a6359876?sa=X&ved=2ahUKEwilk6ipyZ6AAxUtC0QIHa2UCu0Q9eIBegQIERAA",
+            "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x8644b538bc720c67%3A0x582b04b3a6359876&engine=google_maps&google_domain=google.com&hl=en&q=Events+in+Austin&type=place"
+         },
+         "description": "Sips & Sounds is a FREE, family-friendly music festival featuring some of today\u2019s hottest artists in addition to plenty of food, drinks, and good times to be had! See artists like The...",
+         "ticket_info": [
+            {
+               "source": "Songkick.com",
+               "link": "https://www.songkick.com/festivals/3569756-sips-sounds/id/41227229-sips--sounds-2023?utm_medium=organic&utm_source=microformat",
+               "link_type": "tickets"
+            },
+            {
+               "source": "Bandsintown.com",
+               "link": "https://www.bandsintown.com/f/124913-sips-and-sounds-summer-festival-2023?came_from=209",
+               "link_type": "tickets"
+            },
+            {
+               "source": "Tickettailor.com",
+               "link": "https://www.tickettailor.com/events/cocacola/917828?a=215D",
+               "link_type": "tickets"
+            },
+            {
+               "source": "Visit Austin",
+               "link": "https://www.austintexas.org/event/sips-%26-sounds-summer-festival-by-coke-studio/374308/",
+               "link_type": "more info"
+            },
+            {
+               "source": "Do512",
+               "link": "https://do512.com/events/2023/7/29/sips-sounds-summer-festival-tickets",
+               "link_type": "more info"
+            }
+         ],
+         "venue": {
+            "name": "Moody Amphitheater",
+            "reviews": 568,
+            "link": "https://www.google.com/search?q=Moody+Amphitheater&ludocid=6353176868970403958&ibp=gwp%3B0,7"
+         },
+         "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa-dyjWYTFh8qAUmAm8ikMAbayRXAmSmZ8u17wrTwf5deCrsyUuqlWq4k&s",
+         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs5hXoM4Vkabtd2N0w0YWqJRauRX1gzvbvXXPYPqVU0w&s=10"
+      },
+      {
+         "title": "HAVOK @ Come and Take It Live",
+         "date": {
+            "start_date": "Jul 22",
+            "when": "Sat, Jul 22, 6 \u2013 9 PM CDT"
+         },
+         "address": [
+            "Come and Take It Live, 2015 E Riverside Dr bldg 4",
+            "Austin, TX"
+         ],
+         "link": "https://www.etix.com/ticket/p/6033118/havok-and-toxic-holocaust-austin-come-and-take-it-live",
+         "event_location_map": {
+            "image": "https://www.google.com/maps/vt/data=31tA4z57uW_08RyTkg2BbyTfeYoBdtVEd8iMEvqcltO0FAJiDrnenjod11iX4Qtl0lr8PiMqc25kUdvVynIxZZvcEAPyGSSIO0XMDc4EjzTGMPmqrfk",
+            "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x8644b44509e06439:0xb99a54b8e8a4dfc7?sa=X&ved=2ahUKEwilk6ipyZ6AAxUtC0QIHa2UCu0Q9eIBegQIGRAA",
+            "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x8644b44509e06439%3A0xb99a54b8e8a4dfc7&engine=google_maps&google_domain=google.com&hl=en&q=Events+in+Austin&type=place"
+         },
+         "description": "Come and Take It Productions presents... HAVOK and TOXIC HOLOCAUST I AM HAMMERHEDD www.comeandtakeitproductions.com ** Venue info, policies and rules can be found HERE. **",
+         "ticket_info": [
+            {
+               "source": "Etix.com",
+               "link": "http://www.etix.com/ticket/p/6033118/havok-and-toxic-holocaust-austin-come-and-take-it-live",
+               "link_type": "tickets"
+            },
+            {
+               "source": "Bandsintown.com",
+               "link": "https://www.bandsintown.com/t/104245059?came_from=209",
+               "link_type": "tickets"
+            },
+            {
+               "source": "Ticketmaster.com",
+               "link": "https://www1.ticketmaster.com/havok-austin-07-22-2023/event/Z7r9jZ1AdOP7o",
+               "link_type": "tickets"
+            },
+            {
+               "source": "Vividseats.com",
+               "link": "https://www.vividseats.com/havok-tickets-austin-come-and-take-it-live-7-22-2023--concerts-hard-rock/production/4343587?utm_medium=organic&utm_source=google_eventsearch",
+               "link_type": "tickets"
+            },
+            {
+               "source": "Ticketsmarter.com",
+               "link": "https://www.ticketsmarter.com/e/havok-and-toxic-holocaust-tickets-austin-7-22-2023-come-and-take-it-live/5623164",
+               "link_type": "tickets"
+            }
+         ],
+         "venue": {
+            "name": "Come and Take It Live",
+            "reviews": 1429,
+            "link": "https://www.google.com/search?q=Come+and+Take+It+Live&ludocid=13374095196583944135&ibp=gwp%3B0,7"
+         },
+         "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN7qnos33IjdWLYvVyJDo5hekljf07fuFq1qp9uSI&s",
+         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReCBMVBPzPbzbBV7DwCy_wzlFxweuoRqQB-Aoavx0Vzg&s"
+      },
+      {
+         "title": "Austin City Limits Music Festival (October 6-8)",
+         "date": {
+            "start_date": "Oct 5",
+            "when": "Thu, Oct 5 \u2013 Sat, Oct 7"
+         },
+         "address": [
+            "Zilker Metropolitan Park",
+            "Austin, TX"
+         ],
+         "link": "https://thebronconation.com/events/austin-city-limits-music-festival-t.18328/",
+         "description": "ACL Festival features a diverse lineup of acts every year with 100+ performances. Stop by the Bronco display!",
+         "ticket_info": [
+            {
+               "source": "Livenation.com",
+               "link": "https://www.livenation.com/?redirect=false/show/details?id=0&cityname=austin&showdate=2023-10-06&culture=en",
+               "link_type": "tickets"
+            },
+            {
+               "source": "KOA",
+               "link": "https://koa.com/campgrounds/leander/events/austin-city-limits-music-festival-october-_34a9708c-b3b2-4791-a4ec-acbfca768365/",
+               "link_type": "more info"
+            },
+            {
+               "source": "KXAN",
+               "link": "https://www.kxan.com/calendar/?_escaped_fragment_=/show/?start=2022-10-02#!/details/Austin-City-Limits-Music-Festival-Weekend-One-/11881298/2023-10-06T11",
+               "link_type": "more info"
+            },
+            {
+               "source": "ACL Festival Weekend One - Front Gate Tickets",
+               "link": "https://aclfest-weekend1.frontgatetickets.com/event/rzeca9osi34nz9or/passcode/",
+               "link_type": "more info"
+            },
+            {
+               "source": "Bandsintown",
+               "link": "https://www.bandsintown.com/e/104416191-lil-yachty-at-zilker-metropolitan-park",
+               "link_type": "more info"
+            }
+         ],
+         "venue": {
+            "name": "Zilker Metropolitan Park",
+            "reviews": 3457,
+            "link": "https://www.google.com/search?q=Zilker+Metropolitan+Park&ludocid=11191514603003015866&ibp=gwp%3B0,7"
+         },
+         "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLQpyoIxrbuHPdf5Y6mvLJOqoQKYgQjBubokjQbbB75krRSgpC9HS-2CQ&s"
+      },
+      {
+         "title": "Mark Chesnutt",
+         "date": {
+            "start_date": "Jul 21",
+            "when": "Fri, Jul 21, 3 \u2013 6 PM CDT"
+         },
+         "address": [
+            "Buck's Backyard, 1750 Farm to Market 1626",
+            "Buda, TX"
+         ],
+         "link": "https://bucksbackyard.com/event/mark-chesnutt/",
+         "event_location_map": {
+            "image": "https://www.google.com/maps/vt/data=2loLAUXkhisAIWuP9CVQThyxx9BiWR4PfrsX2YxCqfSidA5Z4B9ZMtqQPn94Rx-w4p2NLqLLow6iqAV71jHEplVDqb_NE2QCsT49gYJ43zUTobhYtpI",
+            "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x865b5187ba3d7beb:0xb47d1dc45903a244?sa=X&ved=2ahUKEwilk6ipyZ6AAxUtC0QIHa2UCu0Q9eIBegQIKRAA",
+            "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x865b5187ba3d7beb%3A0xb47d1dc45903a244&engine=google_maps&google_domain=google.com&hl=en&q=Events+in+Austin&type=place"
+         },
+         "description": "Mark Chesnutt playing live at Buck\\'s Backyard in Buda. Enjoy [\u2026]\\n",
+         "ticket_info": [
+            {
+               "source": "Eventbrite.com",
+               "link": "https://www.eventbrite.com/e/mark-chesnutt-tickets-620039192917",
+               "link_type": "tickets"
+            },
+            {
+               "source": "Allevents.in",
+               "link": "https://allevents.in/buda/mark-chesnutt/230001132694185",
+               "link_type": "tickets"
+            },
+            {
+               "source": "Buck's Backyard",
+               "link": "https://bucksbackyard.com/event/mark-chesnutt/",
+               "link_type": "more info"
+            },
+            {
+               "source": "StubFindr",
+               "link": "https://stubfindr.com/event/mark-chesnutt-5717673/",
+               "link_type": "more info"
+            },
+            {
+               "source": "Texas",
+               "link": "https://bestthingstx.com/event/mark-chesnutt-2023-07-21-jb-buda-tx.html",
+               "link_type": "more info"
+            }
+         ],
+         "venue": {
+            "name": "Buck's Backyard",
+            "reviews": 1022,
+            "link": "https://www.google.com/search?q=Buck%27s+Backyard&ludocid=13005584028060066372&ibp=gwp%3B0,7"
+         },
+         "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVcYesR4jJMedpADt3CNg2kkR-RO0dnYHjJZBQd_mSOZv-UzE1R6WNxzA&s",
+         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIp4d85eXZsc6ruIaQ3RxvRidXcE-2ok3BktOfL0dQVlu6IKgacRXbBIX-6w&s=10"
+      },
+      {
+         "title": "Special Event: David Koechner",
+         "date": {
+            "start_date": "Aug 19",
+            "when": "Sat, Aug 19, 4 PM CDT"
+         },
+         "address": [
+            "Capitol City Comedy Club, Bldg B, 11506 Century Oaks Terrace Unit 100",
+            "Austin, TX"
+         ],
+         "link": "https://www.capcitycomedy.com/events/75309",
+         "event_location_map": {
+            "image": "https://www.google.com/maps/vt/data=OA43FWNsWmnG7ZaRgLBv9nkLRe45_nTIMaRdQHNvZH97j8ktH_WSZ_foDk5BeQCTxSqGC_o46znu1UZu98O1GShq3PrUKT06jQt1lpsXGhWnTBJ9eos",
+            "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x8644cbc94682a037:0xdb2a6ffe6a3d26d5?sa=X&ved=2ahUKEwilk6ipyZ6AAxUtC0QIHa2UCu0Q9eIBegQIMRAA",
+            "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x8644cbc94682a037%3A0xdb2a6ffe6a3d26d5&engine=google_maps&google_domain=google.com&hl=en&q=Events+in+Austin&type=place"
+         },
+         "description": "What\u2019s up trivia nerds? Test your knowledge of \"The Office\" with the 'Pack-Man' himself, David Koechner. Teams will compete for mediocre prizes while also hearing behind-the-scenes stories from...",
+         "ticket_info": [
+            {
+               "source": "Vividseats.com",
+               "link": "https://www.vividseats.com/david-koechner-tickets-austin-cap-city-comedy-club-8-19-2023--theater-comedy/production/4417810?utm_medium=organic&utm_source=google_eventsearch",
+               "link_type": "tickets"
+            },
+            {
+               "source": "Ticketsmarter.com",
+               "link": "https://www.ticketsmarter.com/e/the-office-trivia-tickets-austin-8-19-2023-cap-city-comedy-club/5719145",
+               "link_type": "tickets"
+            },
+            {
+               "source": "Eventticketscenter.com",
+               "link": "https://www.eventticketscenter.com/david-koechner-austin-08-19-2023/5719144/t",
+               "link_type": "tickets"
+            },
+            {
+               "source": "Cap City Comedy Club",
+               "link": "https://www.capcitycomedy.com/events/75309",
+               "link_type": "more info"
+            },
+            {
+               "source": "NIGHTOUT",
+               "link": "https://nightout.com/events/a/david-koechner-18-event-cap-city-comedy-club-austin-sat-aug-19-2023",
+               "link_type": "more info"
+            }
+         ],
+         "venue": {
+            "name": "Capitol City Comedy Club",
+            "reviews": 1648,
+            "link": "https://www.google.com/search?q=Capitol+City+Comedy+Club&ludocid=15792558181822834389&ibp=gwp%3B0,7"
+         },
+         "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi_skFNlOtsr1wkzaz_QZBvX5JY9rGy6LofsCgqFZMPL5ht6Z9PK_ma1Y&s",
+         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrZ5Ek0PAQ6LqmtZhmjfrMo-iAKhwrq_n97ZbaYhAQEdItSNx_Gsf4IAKW_Q&s=10"
+      },
+      {
+         "title": "The Brew Bus: Austin Brewery Tour with Live Band",
+         "date": {
+            "start_date": "Jul 21",
+            "when": "Fri, Jul 21, 3 PM \u2013 Sat, Jul 22, 3 PM CDT"
+         },
+         "address": [
+            "Austin Visitor Center, 602 E 4th St",
+            "Austin, TX"
+         ],
+         "link": "https://feverup.com/m/98268",
+         "event_location_map": {
+            "image": "https://www.google.com/maps/vt/data=vecOX94CZVKU8E121peQ3B8WW3kdC7lLr9UQITtvfEMKD1qgOZrLRGi8MfK9jjHCsq1vwUwYle5cmkPGVxnRlWQpTNCGB0VYRg02x3hVRE0NoHPZQMo",
+            "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x8644b5a778422045:0xbe83d3a0810bec5b?sa=X&ved=2ahUKEwilk6ipyZ6AAxUtC0QIHa2UCu0Q9eIBegQIORAA",
+            "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x8644b5a778422045%3A0xbe83d3a0810bec5b&engine=google_maps&google_domain=google.com&hl=en&q=Events+in+Austin&type=place"
+         },
+         "description": "Tickets \ud83c\udfab The Brew Bus Ticket for 1 Adult (21+) Highlights \ud83c\udf7a Samples at each stop! \ud83d\udc68 A tour guide to accompany you through the experience \ud83d\ude8c Austin\u2019s only concert on wheels! General Info \ud83d\udcc5...",
+         "ticket_info": [
+            {
+               "source": "Feverup.com",
+               "link": "https://feverup.com/m/98268",
+               "link_type": "tickets"
+            },
+            {
+               "source": "The City Events",
+               "link": "https://thecityevents.com/event/the-brew-bus-austin-brewery-tour-with-live-band-austin/2023-07-14/",
+               "link_type": "more info"
+            }
+         ],
+         "venue": {
+            "name": "Austin Visitor Center",
+            "reviews": 654,
+            "link": "https://www.google.com/search?q=Austin+Visitor+Center&ludocid=13728048775468674139&ibp=gwp%3B0,7"
+         },
+         "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgknNdYpzbk3cJUzR0PqIzYbXTSZn4wqlwvDAnjW8&s",
+         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqmsCoVBZgAX5Vk-Q0txnyno6M5L0KD8ibQf-HGg3SFg&s=10"
+      },
+      {
+         "title": "Foo Fighters @ Zilker Metropolitan Park",
+         "date": {
+            "start_date": "Oct 14",
+            "when": "Sat, Oct 14, 12 \u2013 2 PM CDT"
+         },
+         "address": [
+            "Zilker Metropolitan Park",
+            "Austin, TX"
+         ],
+         "link": "https://www.vividseats.com/austin-city-limits-festival-tickets-austin-zilker-park-10-14-2023--concerts-music-festivals/production/4158143",
+         "event_location_map": {
+            "image": "https://www.google.com/maps/vt/data=9iPGKvsckRjhd9-x5Ic3v29aMmCez_JLSyxn6XUKO-3rliJpOc3bMrxBqMYcXjtfeI6zX_IemIcq39yuUg7s54HralrAO8nwWYpVhXAiYgOeH2qG218",
+            "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x8644b586e0f968db:0x9b503f3c7a9772ba?sa=X&ved=2ahUKEwilk6ipyZ6AAxUtC0QIHa2UCu0Q9eIBegQIQRAA",
+            "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x8644b586e0f968db%3A0x9b503f3c7a9772ba&engine=google_maps&google_domain=google.com&hl=en&q=Events+in+Austin&type=place"
+         },
+         "description": "Buy 2023 Austin City Limits Festival - Saturday (Foo Fighters, The 1975, Alanis Morissette) in Austin tickets from Vivid Seats for the concert on 10/14/2023 and shop with confidence thanks to our...",
+         "ticket_info": [
+            {
+               "source": "Aclfestival.com",
+               "link": "https://www.aclfestival.com/tickets",
+               "link_type": "tickets"
+            },
+            {
+               "source": "Axs.com",
+               "link": "https://www.axs.com/events/485121/alanis-morissettefoo-fightersaustin-city-limits-festivalthe-1975-tickets",
+               "link_type": "tickets"
+            },
+            {
+               "source": "Bandsintown.com",
+               "link": "https://www.bandsintown.com/t/104493156?came_from=209",
+               "link_type": "tickets"
+            },
+            {
+               "source": "Vividseats.com",
+               "link": "https://www.vividseats.com/austin-city-limits-festival-tickets-austin-zilker-park-10-14-2023--concerts-music-festivals/production/4158143?utm_medium=organic&utm_source=google_eventsearch",
+               "link_type": "tickets"
+            },
+            {
+               "source": "Eseats.com",
+               "link": "https://www.eseats.com/production/2201011/austin_city_limits_music_festival_weekend_two_-_saturday_tickets.html",
+               "link_type": "tickets"
+            }
+         ],
+         "venue": {
+            "name": "Zilker Metropolitan Park",
+            "reviews": 3457,
+            "link": "https://www.google.com/search?q=Zilker+Metropolitan+Park&ludocid=11191514603003015866&ibp=gwp%3B0,7"
+         },
+         "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5xmoSx-gYwMRvNjQL2PJKNzqDvnYEgP12IOfEjx0&s",
+         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGIXnXp1oQ6awOiJl5S8YuNrj2B_joR-QyxDe7ven8cg&s=10"
+      },
+      {
+         "title": "Sad Summer Festival",
+         "date": {
+            "start_date": "Jul 26",
+            "when": "Wed, Jul 26, 2 \u2013 5 PM CDT"
+         },
+         "address": [
+            "Germania Insurance Amphitheater, 9201 Circuit of the Americas Blvd",
+            "Austin, TX"
+         ],
+         "link": "https://www.austintexas.org/event/sad-summer-festival/371346/",
+         "event_location_map": {
+            "image": "https://www.google.com/maps/vt/data=Y5F66ZAnyE7BFvYun4Dp_IuZuC73HB3swB5KykqXPkM7nCcNzS-RewD1q-WNKnsG4zVocXtlAWg7fnf5skx-Jo0hMZvU1DwQpxlzdIVyBcdkyV1Y464",
+            "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x8644b03c9d42c5a7:0x21814b5914d2754d?sa=X&ved=2ahUKEwilk6ipyZ6AAxUtC0QIHa2UCu0Q9eIBegQISRAA",
+            "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x8644b03c9d42c5a7%3A0x21814b5914d2754d&engine=google_maps&google_domain=google.com&hl=en&q=Events+in+Austin&type=place"
+         },
+         "description": "Sad Summer Festival 2023 will feature Taking Back Sunday, The Maine, Pvris, Hot Mulligan & Mom Jeans.",
+         "ticket_info": [
+            {
+               "source": "Bucketlisters.com",
+               "link": "https://bucketlisters.com/experience/sad-summer-fest-2023-at-germania-insurance-amphitheater",
+               "link_type": "tickets"
+            },
+            {
+               "source": "Axs.com",
+               "link": "https://www.axs.com/au/events/467956/sad-summer-festival-tickets",
+               "link_type": "tickets"
+            },
+            {
+               "source": "Songkick.com",
+               "link": "https://www.songkick.com/festivals/3529516-sad-summer-fest-taking-back-sunday-the-maine-andrew-mcmahon-more/id/41143242-sad-summer-fest-taking-back-sunday-the-maine-andrew-mcmahon--more-2023?utm_medium=organic&utm_source=microformat",
+               "link_type": "tickets"
+            },
+            {
+               "source": "Bandsintown.com",
+               "link": "https://www.bandsintown.com/t/104425329?came_from=209",
+               "link_type": "tickets"
+            },
+            {
+               "source": "Visit Austin",
+               "link": "https://www.austintexas.org/event/sad-summer-festival/371346/",
+               "link_type": "more info"
+            }
+         ],
+         "venue": {
+            "name": "Germania Insurance Amphitheater",
+            "reviews": 4075,
+            "link": "https://www.google.com/search?q=Germania+Insurance+Amphitheater&ludocid=2414293721220805965&ibp=gwp%3B0,7"
+         },
+         "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUxJZ3oBwNMSl9504yFZGqhMw9cFVnJJ1ro0Jv9HrchXpOkl_rRr2ZFrA&s",
+         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL3l-yNYYE6mPeXK-iZfzZRPqeXjRALGuRLMZVs2LPhg&s=10"
+      }
+   ]
+}
