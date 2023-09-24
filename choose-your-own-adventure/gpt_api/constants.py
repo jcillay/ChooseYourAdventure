@@ -29,5 +29,3 @@ JSON_QUERY_FORMAT = """ {
     }
 
     All character values should be Strings, with the exception of "dps" which should be a Double. """
-
-

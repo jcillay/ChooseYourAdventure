@@ -1,4 +1,4 @@
-""" """
+""" Functions to help generate city and state data. """
 
 import time
 import random
@@ -6,6 +6,8 @@ import random
 import peewee
 import requests
 from typing import List, Tuple, Union, overload
+
+import api_auth
 from exc import NoMoreCitiesAvailable, FilterAvailableStates
 from models.state_and_city import City, State, db
 
@@ -52,8 +54,9 @@ def upload_data(batch_start: int, batch_limit: int = 66570) -> int:
     """ TODO Total offsets = 66570 """
     states = State.get_all_states()
     state_names = {s.name for s in states}
+    authentication = api_auth.APIAuthentication("configs/adventure_config.json")
     headers = {
-        "X-RapidAPI-Key": "",
+        "X-RapidAPI-Key": authentication.get_rapid_api_key(),
         "X-RapidAPI-Host": "wft-geo-db.p.rapidapi.com"
     }
     while batch_start <= batch_limit:

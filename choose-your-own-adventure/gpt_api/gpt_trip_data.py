@@ -6,7 +6,6 @@ from typing import Dict, List
 
 from dataclasses import dataclass, field
 
-# with open("choose-your-own-adventure/gpt_api/example_gpt_response.txt", "r+") as f:
 make_mapping: Dict[str, List[str]] = {}
 
 @dataclass

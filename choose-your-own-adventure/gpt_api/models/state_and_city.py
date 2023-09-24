@@ -82,5 +82,3 @@ class City(peewee.Model):
     def get_all_city_names(cls) -> List[str]:
         """ Returns a list of City's city_name currently in the DB. """
         return [c.city_name for c in cls.select().execute()]
-
-
