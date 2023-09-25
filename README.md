@@ -7,8 +7,14 @@ An openai API key
 An Rapid API api key 
 And a serp API api key to generate all content
 
-These apis should be stored in a config.json file outside of the ChooseYourOwnAdventure repo in a json file structured as so:
+These apis should be stored in a file in  ```cwd/configs/adventure_config.json```.
 
 `{"openai_api_key": "OPENAI_API_KEY", "geo_api_key": "RAPID_API_KEY", "events_api_key": "SERP_API_KEY"}`
 
+
+To run the program:
+After cloning first `cd` into the `choose-your-own-adventure ` directory and start the development server using `yarn`.
+``` cd choose-your-own-adventure yarn start-api```
+
+Next start 
 Have fun seeing the US!
