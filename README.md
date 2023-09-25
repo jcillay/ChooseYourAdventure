@@ -13,8 +13,11 @@ These apis should be stored in a file in  ```cwd/configs/adventure_config.json``
 
 
 To run the program:
-After cloning first `cd` into the `choose-your-own-adventure ` directory and start the development server using `yarn`.
-``` cd choose-your-own-adventure yarn start-api```
+After cloning first `cd` into the `choose-your-own-adventure ` directory and start the Flask serverand run start the local react development server by running this code:
+```
+cd choose-your-own-adventure
+yarn start-api
+yarn start
+```
 
-Next start 
 Have fun seeing the US!
