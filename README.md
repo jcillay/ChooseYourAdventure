@@ -13,9 +13,19 @@ These apis should be stored in a file in  ```cwd/configs/adventure_config.json``
 
 
 To run the program:
-After cloning first `cd` into the `choose-your-own-adventure ` directory and start the Flask serverand run start the local react development server by running this code:
+After cloning first `cd` into the `choose-your-own-adventure ` directory and activate the venv. 
+
 ```
 cd choose-your-own-adventure
+source gpt_api/venv/bin/activate
+```
+Next install all python requirements using:
+
+```
+pip install -r gpt_api/requirements.txt
+```
+Finally, start the Flask server and the React development server:
+```
 yarn start-api
 yarn start
 ```
